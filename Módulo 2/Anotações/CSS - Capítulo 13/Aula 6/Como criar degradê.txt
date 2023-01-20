@@ -1,0 +1,10 @@
+Capítulo 13 Aula 06 – Como criar degradê com CSS?
+
+body {
+       background-image: linear-gradient(to right, red, purple);
+       background-attachment: fixed;
+        }
+
+background-attachment: fixed; (Pra deixar o fundo fixo)
+
+Tem na anotação da aula 1

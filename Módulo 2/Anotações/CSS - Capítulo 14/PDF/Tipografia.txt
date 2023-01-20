@@ -1,0 +1,41 @@
+03/01/2023
+CSS Capítulo 14 - Tipografia
+
+Glifos, letras, caracteres:
+São os signos alfabéticos.
+
+Família tipográfica:
+É o conjunto de glifos que possuem as mesmas características anatômicas
+
+Fontes:
+São conjuntos de glifos que formam uma família tipográfica.
+
+Para aplicar utiliza-se a propriedade "font-family"
+
+Tamanhos: usar somente px e em
+16px equivale a 1em
+
+Outros estilos:
+"font-style" para aplicar o itálico
+"font-weight" para aplicar negrito
+
+shorthand:
+  font: italic bold 1em Arial, Helvetica, sans-serif;
+
+A ordem dos atributos da propriedade "font" é:
+
+	font-style
+	font-variant
+	font-weight
+	font-size/line-height
+	font-family
+
+Alinhamento
+
+	text-align: left;
+	text-align: rigth;
+	text-align: center;
+	text-align: justify;
+
+Como achar uma fonte de um site?
+  Extensão do Chrome: Fonts Ninja

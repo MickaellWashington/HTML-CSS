@@ -1,0 +1,16 @@
+03/01/2023
+CSS Capítulo 13 Aula 01 – Psicologia das Cores
+
+Cores complementares: São aquelas que apresentam o maior contraste entre si.
+
+Cores análogas: São aquelas que são imediatamente vizinhas entre si.
+
+Cores análogas mais uma complementar: Combinação das anteriores.
+
+Cores análogas relacionadas: Duas cores análogas consecutivas e depois pulamos uma terceira cor e escolhemos a quarta.
+
+Acesse o site do Adobe Color.
+
+Gradientes em Css.
+
+background-image: linear-gradient(to "right, left, top, botton or 90deg para graus)

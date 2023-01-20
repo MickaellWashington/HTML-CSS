@@ -1,0 +1,13 @@
+Capítulo 13 Aula 03 – Harmonia de cores
+
+Círculo Cromático:
+
+  Cores primárias: Amarelo, Vermelho, Azul
+  Cores Segundarias: Laranja, Violeta, Verde
+  Cores Terciária: O que sobrou. (preguiça de digitar)
+
+Cores frias:
+Cores quentes:
+
+Paleta de cores: Se inicia com uma cor primária.
+Recomendação de paleta: De 3 a 5 cores.

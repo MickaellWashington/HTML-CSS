@@ -1,0 +1,50 @@
+18/12/2022
+
+TAGS:
+
+É um conjunto de palavras entre sinais de colchete angular. <Exemplo>
+
+<p> Exemplo de parágrafo </p>
+
+Além disso, as tags também podem ter atributos e valores, que vão configurar seu comportamento:
+
+<a href="destino.html">Exemplo de link</a>
+
+<a (abertura de tag)
+href (parâmetro)
+"destino.html" (valor)
+Exemplo de link (conteúdo)
+</a> (fechamento de tag)
+
+Seletores em CSS:
+
+p {
+    font-family: Arial;
+    font-size: 12pt;
+    color: blue;
+   }
+
+p (seletor)
+font-family: Arial; (declaração)
+color: (propriedade)
+blue; (valor)
+
+Quebra de linha:
+
+<br>
+
+Formatação de texto:
+
+<strong> = Negrito (Semântico)
+<em> = Itálico (Semântica)
+<mark></mark> = Marca Texto
+
+Lista Ordenada:
+
+<ol>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+    <li>Item 4</li>
+    <li>Item 5</li>
+</ol>

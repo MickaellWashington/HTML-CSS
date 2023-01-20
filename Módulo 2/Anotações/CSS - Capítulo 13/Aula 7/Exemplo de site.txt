@@ -1,0 +1,45 @@
+Capítulo 13 Aula 07 – Criando um exemplo real
+
+* (Configurações globais, regra que se aplica a todos os seletores)
+
+height (altura)
+width (largura)
+border-radius (arredondamento das bordas)
+box-shandow (sombra da caixa)
+text-align (alinhamento do texto)
+padding (preenchimento)
+margin (margem)
+text-shandow (sombra do texto)
+
+@charset "UTF-8";
+* {
+    font-family: 'Times New Roman', Times, serif;
+    /*height: 100%;*/
+}
+
+body {
+    background-image: linear-gradient(to right, #9FC131, #DBF227, #D6D58E);
+}
+
+main {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #042940;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+    color: #042940;
+    text-align: center;
+    text-shadow: 1px 1px 0px #042940;
+}
+
+h2 {
+    color: #0d6058;
+}
+
+p {
+    text-align: justify;
+}
